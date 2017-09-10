@@ -1,0 +1,2 @@
+C:\Users\Visual_Dom\Desktop\Clases\Clase3EntityFramework\Clase3EntityFramework\bin\Debug\Clase3EntityFramework.exe.config
+D:\Cazzia\workspace\ClaseDeEntityFramework-master\Clase3EntityFramework\bin\Debug\Clase3EntityFramework.exe.config

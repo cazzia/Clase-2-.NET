@@ -1,0 +1,13 @@
+D:\Cazzia\TiendaWeb\TiendaWeb\bin\Debug\TiendaWeb.exe.config
+D:\Cazzia\TiendaWeb\TiendaWeb\bin\Debug\TiendaWeb.exe
+D:\Cazzia\TiendaWeb\TiendaWeb\bin\Debug\TiendaWeb.pdb
+D:\Cazzia\TiendaWeb\TiendaWeb\bin\Debug\EntityFramework.dll
+D:\Cazzia\TiendaWeb\TiendaWeb\bin\Debug\EntityFramework.SqlServer.dll
+D:\Cazzia\TiendaWeb\TiendaWeb\bin\Debug\EntityFramework.xml
+D:\Cazzia\TiendaWeb\TiendaWeb\bin\Debug\EntityFramework.SqlServer.xml
+D:\Cazzia\TiendaWeb\TiendaWeb\obj\Debug\TiendaWeb.csprojResolveAssemblyReference.cache
+D:\Cazzia\TiendaWeb\TiendaWeb\obj\Debug\TiendaWeb.exe
+D:\Cazzia\TiendaWeb\TiendaWeb\obj\Debug\TiendaWeb.pdb
+D:\Cazzia\workspace\TiendaWeb\TiendaWeb\bin\Debug\TiendaWeb.exe.config
+D:\Cazzia\workspace\TiendaWeb\TiendaWeb\obj\Debug\TiendaWeb.exe
+D:\Cazzia\workspace\TiendaWeb\TiendaWeb\obj\Debug\TiendaWeb.pdb
