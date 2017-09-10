@@ -1,0 +1,9 @@
+D:\Cazzia\PrimeraClase\PrimeraClase\bin\Debug\PrimeraClase.exe.config
+D:\Cazzia\PrimeraClase\PrimeraClase\bin\Debug\PrimeraClase.exe
+D:\Cazzia\PrimeraClase\PrimeraClase\bin\Debug\PrimeraClase.pdb
+D:\Cazzia\PrimeraClase\PrimeraClase\bin\Debug\EntityFramework.dll
+D:\Cazzia\PrimeraClase\PrimeraClase\bin\Debug\EntityFramework.SqlServer.dll
+D:\Cazzia\PrimeraClase\PrimeraClase\bin\Debug\EntityFramework.xml
+D:\Cazzia\PrimeraClase\PrimeraClase\bin\Debug\EntityFramework.SqlServer.xml
+D:\Cazzia\PrimeraClase\PrimeraClase\obj\Debug\PrimeraClase.exe
+D:\Cazzia\PrimeraClase\PrimeraClase\obj\Debug\PrimeraClase.pdb
